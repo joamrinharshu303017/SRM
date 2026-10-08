@@ -1,0 +1,9 @@
+gradio
+pymupdf
+pillow
+pytesseract
+python-docx
+openpyxl
+python-pptx
+pandas
+tabulate
